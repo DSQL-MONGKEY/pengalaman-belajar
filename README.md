@@ -20,3 +20,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 # Coba branch
 * branchhhhhhh
+
+# SQUASH AND MERGE
